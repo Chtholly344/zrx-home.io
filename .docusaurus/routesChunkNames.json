@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debug-2-da-22e"
     }
   },
-  "/blog-407": {
+  "/blog-538": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-2-fd-80c"
@@ -50,18 +50,21 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-0-ca-bb0"
+        "content": "content---blog-249-f28"
+      },
+      {
+        "content": "content---blog-977-325"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/关于网站管理员-7e6": {
+  "/blog/关于网站管理员-6f0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---blog-2-fd-80c"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-关于网站管理员-7-fb-462"
+    "content": "content---blog-关于网站管理员ccf-c4e"
   },
   "/blog/archive-3d7": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
@@ -69,6 +72,14 @@
       "plugin": "plugin---blog-2-fd-80c"
     },
     "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/ZRX漫剪团管理员-c95": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-2-fd-80c"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-zr-x漫剪团管理员-48-e-736"
   },
   "/markdown-page-0f3": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

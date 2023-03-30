@@ -4,32 +4,149 @@
       "id": "关于网站管理员",
       "metadata": {
         "permalink": "/blog/关于网站管理员",
-        "source": "@site/blog/2023-03-30-admin/index.md",
+        "source": "@site/blog/2023-03-30-admin/2023-03-30-01.md",
         "title": "关于网站管理员",
-        "description": "*",
+        "description": "关于该网站",
         "date": "2023-03-30T00:00:00.000Z",
         "formattedDate": "2023年3月30日",
         "tags": [],
-        "readingTime": 0.355,
+        "readingTime": 0.38,
         "hasTruncateMarker": false,
         "authors": [
           {
             "name": "Chtholly344",
-            "title": "该网站的建立者",
+            "title": "该网站的建立者[Github]",
             "url": "https://github.com/Chtholly344",
             "imageURL": "https://github.com/Chtholly344.png",
             "key": "Chtholly344"
+          },
+          {
+            "name": "Chtholly",
+            "title": "该网站的建立者[QQ]",
+            "url": "https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3528497818&spec=640&img_type=jpg",
+            "key": "Chtholly"
           }
         ],
         "frontMatter": {
           "slug": "关于网站管理员",
           "title": "关于网站管理员",
           "authors": [
-            "Chtholly344"
+            "Chtholly344",
+            "Chtholly"
           ]
+        },
+        "nextItem": {
+          "title": "ZRX漫剪团管理员",
+          "permalink": "/blog/ZRX漫剪团管理员"
         }
       },
-      "content": "***\r\n\r\n该网站目的在于让想要加入ZRX漫剪团的大佬或者萌新能够更好的了解ZRX漫剪团\r\n\r\n***\r\n\r\n该网站由团内管理 Chtholly[[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3)] 或者 Chtholly344[[Github](https://github.com/Chtholly344)] 为 ZRX漫剪团 建立并提供服务。  \r\n如有任何疑问请联系管理员"
+      "content": "## 关于该网站\r\n\r\n***\r\n\r\n该网站目的在于让想要加入ZRX漫剪团的大佬或者萌新能够更好的了解ZRX漫剪团\r\n\r\n***\r\n\r\n该网站由团内管理 Chtholly[[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3)] 或者 Chtholly344[[Github](https://github.com/Chtholly344)] 为 ZRX漫剪团 建立并提供服务。  \r\n如有任何疑问请联系管理员"
+    },
+    {
+      "id": "ZRX漫剪团管理员",
+      "metadata": {
+        "permalink": "/blog/ZRX漫剪团管理员",
+        "source": "@site/blog/2023-03-30-admin/2023-03-30-02.md",
+        "title": "ZRX漫剪团管理员",
+        "description": "此页面为ZRX漫剪团内管理员列表",
+        "date": "2023-03-30T00:00:00.000Z",
+        "formattedDate": "2023年3月30日",
+        "tags": [],
+        "readingTime": 0.075,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "赛马娘",
+            "title": "ZRX漫剪团团长",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=1240487240&spec=640&img_type=jpg",
+            "key": "1"
+          },
+          {
+            "name": "三jo",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=2916453662&spec=640&img_type=jpg",
+            "key": "2"
+          },
+          {
+            "name": "三玖天下第一③⑨ZRX",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=972485219&spec=640&img_type=jpg",
+            "key": "3"
+          },
+          {
+            "name": "张   子（漫剪）",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=2085486063&spec=640&img_type=jpg",
+            "key": "4"
+          },
+          {
+            "name": "坤祥物",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=438970394&spec=640&img_type=jpg",
+            "key": "5"
+          },
+          {
+            "name": "宇智波杏寿郎",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3252704244&spec=640&img_type=jpg",
+            "key": "6"
+          },
+          {
+            "name": "狗巴皮（开学版）",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=2381065753&spec=640&img_type=jpg",
+            "key": "7"
+          },
+          {
+            "name": "TA（已紫砂）",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3278640271&spec=640&img_type=jpg",
+            "key": "8"
+          },
+          {
+            "name": "希斯特利亚",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=1981545793&spec=640&img_type=jpg",
+            "key": "9"
+          },
+          {
+            "name": "<空昵称>",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=2810842383&spec=640&img_type=jpg",
+            "key": "10"
+          },
+          {
+            "name": "Chtholly",
+            "title": "ZRX漫剪团管理员",
+            "url": "https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3528497818&spec=640&img_type=jpg",
+            "key": "11"
+          }
+        ],
+        "frontMatter": {
+          "slug": "ZRX漫剪团管理员",
+          "title": "ZRX漫剪团管理员",
+          "authors": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+          ]
+        },
+        "prevItem": {
+          "title": "关于网站管理员",
+          "permalink": "/blog/关于网站管理员"
+        }
+      },
+      "content": "## 此页面为ZRX漫剪团内管理员列表"
     }
   ]
 }

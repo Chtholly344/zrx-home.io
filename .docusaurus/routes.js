@@ -39,17 +39,22 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '407'),
+    component: ComponentCreator('/blog', '538'),
     exact: true
   },
   {
     path: '/blog/关于网站管理员',
-    component: ComponentCreator('/blog/关于网站管理员', '7e6'),
+    component: ComponentCreator('/blog/关于网站管理员', '6f0'),
     exact: true
   },
   {
     path: '/blog/archive',
     component: ComponentCreator('/blog/archive', '3d7'),
+    exact: true
+  },
+  {
+    path: '/blog/ZRX漫剪团管理员',
+    component: ComponentCreator('/blog/ZRX漫剪团管理员', 'c95'),
     exact: true
   },
   {

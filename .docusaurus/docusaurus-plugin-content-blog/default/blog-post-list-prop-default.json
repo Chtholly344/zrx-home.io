@@ -1,9 +1,13 @@
 {
-  "title": "Recent posts",
+  "title": "所有文章",
   "items": [
     {
       "title": "关于网站管理员",
       "permalink": "/blog/关于网站管理员"
+    },
+    {
+      "title": "ZRX漫剪团管理员",
+      "permalink": "/blog/ZRX漫剪团管理员"
     }
   ]
 }

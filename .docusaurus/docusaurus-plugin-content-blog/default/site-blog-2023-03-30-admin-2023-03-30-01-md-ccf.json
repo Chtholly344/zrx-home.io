@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/关于网站管理员",
+  "source": "@site/blog/2023-03-30-admin/2023-03-30-01.md",
+  "title": "关于网站管理员",
+  "description": "关于该网站",
+  "date": "2023-03-30T00:00:00.000Z",
+  "formattedDate": "2023年3月30日",
+  "tags": [],
+  "readingTime": 0.38,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Chtholly344",
+      "title": "该网站的建立者[Github]",
+      "url": "https://github.com/Chtholly344",
+      "imageURL": "https://github.com/Chtholly344.png",
+      "key": "Chtholly344"
+    },
+    {
+      "name": "Chtholly",
+      "title": "该网站的建立者[QQ]",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3",
+      "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3528497818&spec=640&img_type=jpg",
+      "key": "Chtholly"
+    }
+  ],
+  "frontMatter": {
+    "slug": "关于网站管理员",
+    "title": "关于网站管理员",
+    "authors": [
+      "Chtholly344",
+      "Chtholly"
+    ]
+  },
+  "nextItem": {
+    "title": "ZRX漫剪团管理员",
+    "permalink": "/blog/ZRX漫剪团管理员"
+  }
+}
