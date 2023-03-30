@@ -5,6 +5,12 @@
   width: 100%;
 }
 
+.fanming {
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
+
 .featureSvg {
   height: 200px;
   width: 200px;

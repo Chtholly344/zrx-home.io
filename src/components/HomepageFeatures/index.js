@@ -1,9 +1,11 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import pic from '@site/static/img/logo.png';
 
 const FeatureList = [
   {
+    name: '铃芽户缔',
     title: '建团时间',
     Svg: require('@site/static/img/01.svg').default,
     description: (
@@ -13,6 +15,7 @@ const FeatureList = [
     ),
   },
   {
+    name: '亚托莉 -我挚爱的时光-',
     title: '氛围良好',
     Svg: require('@site/static/img/02.svg').default,
     description: (
@@ -22,6 +25,7 @@ const FeatureList = [
     ),
   },
   {
+    name: '孤独摇滚',
     title: '素材众多',
     Svg: require('@site/static/img/03.svg').default,
     description: (
@@ -32,11 +36,14 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, tupian, name, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
+      </div>
+      <div className={styles.fanming}>
+        <h2>{name}</h2>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
