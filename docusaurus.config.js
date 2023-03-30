@@ -74,7 +74,7 @@ const config = {
             label: '文章',
           },
           {
-            href: 'https://github.com/Chtholly344/zrx-home',
+            href: 'https://github.com/Chtholly344/zrx-home.io',
             label: 'Github',
             position: 'right',
           },
