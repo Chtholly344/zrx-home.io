@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '建团时间',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/01.svg').default,
     description: (
       <>
         ZRX漫剪团成立于2022年12月15日，截至2023年3月27日，团内成员已达到290+
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: '氛围良好',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/02.svg').default,
     description: (
       <>
         团内聊天环境良好，团员发言积极踊跃，管理活跃富有责任心
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: '素材众多',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/03.svg').default,
     description: (
       <>
         自建团三个多月以来，群内已上传素材10GB+,另有其他素材分群，群内包含AM,NV,MN等主流手机剪辑软件安装包
