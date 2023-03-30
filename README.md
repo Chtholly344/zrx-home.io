@@ -1,7 +1,5 @@
 <div align=center><img width="320" height="320" src="./static/img/logo.png"/></div>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fac74188-13a7-4fc1-a3e9-9cdc49ce740c/deploy-status)](https://app.netlify.com/sites/luxury-beignet-355925/deploys)
-
 # ZRX漫剪团 の 小网站
 
 ***
