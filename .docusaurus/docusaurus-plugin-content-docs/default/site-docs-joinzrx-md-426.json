@@ -1,0 +1,22 @@
+{
+  "unversionedId": "joinzrx",
+  "id": "joinzrx",
+  "title": "入团指南",
+  "description": "*",
+  "source": "@site/docs/joinzrx.md",
+  "sourceDirName": ".",
+  "slug": "/joinzrx",
+  "permalink": "/docs/joinzrx",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "群内机器人-SAGIRIBOT(未使用)",
+    "permalink": "/docs/sagiribot"
+  }
+}

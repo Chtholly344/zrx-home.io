@@ -1,0 +1,22 @@
+{
+  "unversionedId": "aboutweb",
+  "id": "aboutweb",
+  "title": "关于该网站",
+  "description": "*",
+  "source": "@site/docs/aboutweb.md",
+  "sourceDirName": ".",
+  "slug": "/aboutweb",
+  "permalink": "/docs/aboutweb",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关于ZRX漫剪团",
+    "permalink": "/docs/aboutZRX"
+  }
+}

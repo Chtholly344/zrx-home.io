@@ -1,0 +1,35 @@
+{
+  "blogPosts": [
+    {
+      "id": "关于网站管理员",
+      "metadata": {
+        "permalink": "/blog/关于网站管理员",
+        "source": "@site/blog/2023-03-30-admin/index.md",
+        "title": "关于网站管理员",
+        "description": "*",
+        "date": "2023-03-30T00:00:00.000Z",
+        "formattedDate": "2023年3月30日",
+        "tags": [],
+        "readingTime": 0.355,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Chtholly344",
+            "title": "该网站的建立者",
+            "url": "https://github.com/Chtholly344",
+            "imageURL": "https://github.com/Chtholly344.png",
+            "key": "Chtholly344"
+          }
+        ],
+        "frontMatter": {
+          "slug": "关于网站管理员",
+          "title": "关于网站管理员",
+          "authors": [
+            "Chtholly344"
+          ]
+        }
+      },
+      "content": "***\n\n该网站目的在于让想要加入ZRX漫剪团的大佬或者萌新能够更好的了解ZRX漫剪团\n\n***\n\n该网站由团内管理 Chtholly[[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3)] 或者 Chtholly344[[Github](https://github.com/Chtholly344)] 为 ZRX漫剪团 建立并提供服务。  \n如有任何疑问请联系管理员"
+    }
+  ]
+}

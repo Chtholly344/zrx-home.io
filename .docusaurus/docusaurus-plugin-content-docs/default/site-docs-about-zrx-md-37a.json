@@ -1,0 +1,26 @@
+{
+  "unversionedId": "aboutZRX",
+  "id": "aboutZRX",
+  "title": "关于ZRX漫剪团",
+  "description": "*",
+  "source": "@site/docs/aboutZRX.md",
+  "sourceDirName": ".",
+  "slug": "/aboutZRX",
+  "permalink": "/docs/aboutZRX",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "群内机器人-绪山真寻BOT(启用)",
+    "permalink": "/docs/zhenxunbot"
+  },
+  "next": {
+    "title": "关于该网站",
+    "permalink": "/docs/aboutweb"
+  }
+}

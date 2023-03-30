@@ -1,0 +1,251 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Administrator\\Desktop\\Github Code\\zrx-home\\sidebars.js",
+          "contentPath": "C:\\Users\\Administrator\\Desktop\\Github Code\\zrx-home\\docs",
+          "contentPathLocalized": "C:\\Users\\Administrator\\Desktop\\Github Code\\zrx-home\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "aboutweb",
+              "id": "aboutweb",
+              "title": "关于该网站",
+              "description": "*",
+              "source": "@site/docs/aboutweb.md",
+              "sourceDirName": ".",
+              "slug": "/aboutweb",
+              "permalink": "/docs/aboutweb",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "关于ZRX漫剪团",
+                "permalink": "/docs/aboutZRX"
+              }
+            },
+            {
+              "unversionedId": "aboutZRX",
+              "id": "aboutZRX",
+              "title": "关于ZRX漫剪团",
+              "description": "*",
+              "source": "@site/docs/aboutZRX.md",
+              "sourceDirName": ".",
+              "slug": "/aboutZRX",
+              "permalink": "/docs/aboutZRX",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "群内机器人-绪山真寻BOT(启用)",
+                "permalink": "/docs/zhenxunbot"
+              },
+              "next": {
+                "title": "关于该网站",
+                "permalink": "/docs/aboutweb"
+              }
+            },
+            {
+              "unversionedId": "joinzrx",
+              "id": "joinzrx",
+              "title": "入团指南",
+              "description": "*",
+              "source": "@site/docs/joinzrx.md",
+              "sourceDirName": ".",
+              "slug": "/joinzrx",
+              "permalink": "/docs/joinzrx",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "群内机器人-SAGIRIBOT(未使用)",
+                "permalink": "/docs/sagiribot"
+              }
+            },
+            {
+              "unversionedId": "sagiribot",
+              "id": "sagiribot",
+              "title": "群内机器人-SAGIRIBOT(未使用)",
+              "description": "maven",
+              "source": "@site/docs/sagiribot.md",
+              "sourceDirName": ".",
+              "slug": "/sagiribot",
+              "permalink": "/docs/sagiribot",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "入团指南",
+                "permalink": "/docs/joinzrx"
+              },
+              "next": {
+                "title": "群内机器人-绪山真寻BOT(启用)",
+                "permalink": "/docs/zhenxunbot"
+              }
+            },
+            {
+              "unversionedId": "zhenxunbot",
+              "id": "zhenxunbot",
+              "title": "群内机器人-绪山真寻BOT(启用)",
+              "description": "提示：图片来源于Github，国内网络大概率无法加载",
+              "source": "@site/docs/zhenxunbot.md",
+              "sourceDirName": ".",
+              "slug": "/zhenxunbot",
+              "permalink": "/docs/zhenxunbot",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "群内机器人-SAGIRIBOT(未使用)",
+                "permalink": "/docs/sagiribot"
+              },
+              "next": {
+                "title": "关于ZRX漫剪团",
+                "permalink": "/docs/aboutZRX"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "joinzrx"
+              },
+              {
+                "type": "doc",
+                "id": "sagiribot"
+              },
+              {
+                "type": "doc",
+                "id": "zhenxunbot"
+              },
+              {
+                "type": "doc",
+                "id": "aboutZRX"
+              },
+              {
+                "type": "doc",
+                "id": "aboutweb"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "关于网站管理员",
+          "metadata": {
+            "permalink": "/blog/关于网站管理员",
+            "source": "@site/blog/2023-03-30-admin/index.md",
+            "title": "关于网站管理员",
+            "description": "*",
+            "date": "2023-03-30T00:00:00.000Z",
+            "formattedDate": "2023年3月30日",
+            "tags": [],
+            "readingTime": 0.355,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Chtholly344",
+                "title": "该网站的建立者",
+                "url": "https://github.com/Chtholly344",
+                "imageURL": "https://github.com/Chtholly344.png",
+                "key": "Chtholly344"
+              }
+            ],
+            "frontMatter": {
+              "slug": "关于网站管理员",
+              "title": "关于网站管理员",
+              "authors": [
+                "Chtholly344"
+              ]
+            }
+          },
+          "content": "***\n\n该网站目的在于让想要加入ZRX漫剪团的大佬或者萌新能够更好的了解ZRX漫剪团\n\n***\n\n该网站由团内管理 Chtholly[[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3)] 或者 Chtholly344[[Github](https://github.com/Chtholly344)] 为 ZRX漫剪团 建立并提供服务。  \n如有任何疑问请联系管理员"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "关于网站管理员"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "zhenxunbot",
+  "id": "zhenxunbot",
+  "title": "群内机器人-绪山真寻BOT(启用)",
+  "description": "提示：图片来源于Github，国内网络大概率无法加载",
+  "source": "@site/docs/zhenxunbot.md",
+  "sourceDirName": ".",
+  "slug": "/zhenxunbot",
+  "permalink": "/docs/zhenxunbot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "群内机器人-SAGIRIBOT(未使用)",
+    "permalink": "/docs/sagiribot"
+  },
+  "next": {
+    "title": "关于ZRX漫剪团",
+    "permalink": "/docs/aboutZRX"
+  }
+}

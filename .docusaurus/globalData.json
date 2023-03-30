@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "joinzrx",
+          "docs": [
+            {
+              "id": "aboutweb",
+              "path": "/docs/aboutweb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aboutZRX",
+              "path": "/docs/aboutZRX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "joinzrx",
+              "path": "/docs/joinzrx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sagiribot",
+              "path": "/docs/sagiribot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "zhenxunbot",
+              "path": "/docs/zhenxunbot",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/joinzrx",
+                "label": "joinzrx"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

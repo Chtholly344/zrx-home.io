@@ -1,0 +1,76 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "入团指南",
+        "href": "/docs/joinzrx",
+        "docId": "joinzrx"
+      },
+      {
+        "type": "link",
+        "label": "群内机器人-SAGIRIBOT(未使用)",
+        "href": "/docs/sagiribot",
+        "docId": "sagiribot"
+      },
+      {
+        "type": "link",
+        "label": "群内机器人-绪山真寻BOT(启用)",
+        "href": "/docs/zhenxunbot",
+        "docId": "zhenxunbot"
+      },
+      {
+        "type": "link",
+        "label": "关于ZRX漫剪团",
+        "href": "/docs/aboutZRX",
+        "docId": "aboutZRX"
+      },
+      {
+        "type": "link",
+        "label": "关于该网站",
+        "href": "/docs/aboutweb",
+        "docId": "aboutweb"
+      }
+    ]
+  },
+  "docs": {
+    "aboutweb": {
+      "id": "aboutweb",
+      "title": "关于该网站",
+      "description": "*",
+      "sidebar": "tutorialSidebar"
+    },
+    "aboutZRX": {
+      "id": "aboutZRX",
+      "title": "关于ZRX漫剪团",
+      "description": "*",
+      "sidebar": "tutorialSidebar"
+    },
+    "joinzrx": {
+      "id": "joinzrx",
+      "title": "入团指南",
+      "description": "*",
+      "sidebar": "tutorialSidebar"
+    },
+    "sagiribot": {
+      "id": "sagiribot",
+      "title": "群内机器人-SAGIRIBOT(未使用)",
+      "description": "maven",
+      "sidebar": "tutorialSidebar"
+    },
+    "zhenxunbot": {
+      "id": "zhenxunbot",
+      "title": "群内机器人-绪山真寻BOT(启用)",
+      "description": "提示：图片来源于Github，国内网络大概率无法加载",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

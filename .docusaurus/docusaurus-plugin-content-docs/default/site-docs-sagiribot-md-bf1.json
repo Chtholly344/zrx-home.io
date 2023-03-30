@@ -1,0 +1,26 @@
+{
+  "unversionedId": "sagiribot",
+  "id": "sagiribot",
+  "title": "群内机器人-SAGIRIBOT(未使用)",
+  "description": "maven",
+  "source": "@site/docs/sagiribot.md",
+  "sourceDirName": ".",
+  "slug": "/sagiribot",
+  "permalink": "/docs/sagiribot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "入团指南",
+    "permalink": "/docs/joinzrx"
+  },
+  "next": {
+    "title": "群内机器人-绪山真寻BOT(启用)",
+    "permalink": "/docs/zhenxunbot"
+  }
+}
