@@ -26,13 +26,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Administrator\\Desktop\\Github Code\\zrx-home\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ChthollyNota\\Desktop\\Web\\zrx-home.io\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\Administrator\\Desktop\\Github Code\\zrx-home\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\ChthollyNota\\Desktop\\Web\\zrx-home.io\\src\\css\\custom.css"
         }
       }
     ]
