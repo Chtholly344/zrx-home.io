@@ -97,5 +97,9 @@
   "prevItem": {
     "title": "关于网站管理员",
     "permalink": "/blog/关于网站管理员"
+  },
+  "nextItem": {
+    "title": "友链",
+    "permalink": "/blog/友链"
   }
 }

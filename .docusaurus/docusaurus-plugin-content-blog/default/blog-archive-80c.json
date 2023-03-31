@@ -144,9 +144,37 @@
         "prevItem": {
           "title": "关于网站管理员",
           "permalink": "/blog/关于网站管理员"
+        },
+        "nextItem": {
+          "title": "友链",
+          "permalink": "/blog/友链"
         }
       },
       "content": ""
+    },
+    {
+      "id": "友链",
+      "metadata": {
+        "permalink": "/blog/友链",
+        "source": "@site/blog/2023-03-30-admin/2023-01-01-01.md",
+        "title": "友链",
+        "description": "当前还没有友链捏~",
+        "date": "2023-01-01T00:00:00.000Z",
+        "formattedDate": "2023年1月1日",
+        "tags": [],
+        "readingTime": 0.18,
+        "hasTruncateMarker": false,
+        "authors": [],
+        "frontMatter": {
+          "slug": "友链",
+          "title": "友链"
+        },
+        "prevItem": {
+          "title": "ZRX漫剪团管理员",
+          "permalink": "/blog/ZRX漫剪团管理员"
+        }
+      },
+      "content": "当前还没有友链捏~\r\n\r\n## 看来还没有友链捏，如要申请友链请到页面底部联系网站管理员呐~"
     }
   ]
 }

@@ -58,7 +58,12 @@ export default {
           "label": "文章"
         },
         {
-          "href": "https://github.com/Chtholly344/zrx-home",
+          "to": "/blog/友链",
+          "position": "left",
+          "label": "友链"
+        },
+        {
+          "href": "https://github.com/Chtholly344/zrx-home.io",
           "label": "Github",
           "position": "right"
         }

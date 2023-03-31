@@ -14,6 +14,9 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className={styles.textline}>
+          -不限平台-不限软件-不限年龄-
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -28,6 +31,12 @@ function HomepageHeader() {
            -点击此处加入审核群-
           </Link>
         </div>
+        <h2 className={styles.textline2}>
+          只要你热爱二次元并且会一定的剪辑就可以轻松加入
+        </h2>
+        <p className={styles.textline3}>
+          -主招纯剪，排版-
+        </p>
       </div>
     </header>
   );

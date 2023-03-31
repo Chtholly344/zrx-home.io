@@ -39,12 +39,17 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '538'),
+    component: ComponentCreator('/blog', 'e4b'),
     exact: true
   },
   {
     path: '/blog/关于网站管理员',
     component: ComponentCreator('/blog/关于网站管理员', '6f0'),
+    exact: true
+  },
+  {
+    path: '/blog/友链',
+    component: ComponentCreator('/blog/友链', 'd99'),
     exact: true
   },
   {

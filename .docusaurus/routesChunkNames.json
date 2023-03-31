@@ -42,7 +42,7 @@
       "plugin": "plugin---docusaurus-debug-2-da-22e"
     }
   },
-  "/blog-538": {
+  "/blog-e4b": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-2-fd-80c"
@@ -54,6 +54,9 @@
       },
       {
         "content": "content---blog-977-325"
+      },
+      {
+        "content": "content---blogcb-4-e89"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
@@ -65,6 +68,14 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-关于网站管理员ccf-c4e"
+  },
+  "/blog/友链-d99": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-2-fd-80c"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-友链-889-a6b"
   },
   "/blog/archive-3d7": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
