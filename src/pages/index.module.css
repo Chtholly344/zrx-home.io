@@ -4,7 +4,8 @@
  */
 
  .heroBanner {
-  padding: 4rem 0;
+  color: white;
+  padding: 6rem 0;
   text-align: center;
   position: relative;
   background: url(../../static/img/back.webp);
@@ -22,9 +23,60 @@
 }
 
 .buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   margin-bottom: 25px;
-  clear: both;
+}
+.button1 {
+  background-color: white;
+  border: 3px solid #4CAF50;
+  border-radius: 5px;
+  padding: 8px 25px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 5px 5px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+.button1:hover{
+  background-color: #2f6831;
+  border: 3px solid #2f6831;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  margin: 5px 5px;
+  transition-duration: 0.5s;
+}
+
+.button2 {
+  background-color: white;
+  border: 3px solid #4CAF50;
+  border-radius: 5px;
+  padding: 8px 25px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 5px 5px;
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+.button2:hover{
+  background-color: #2f6831;
+  border: 3px solid #2f6831;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  margin: 5px 5px;
+  transition-duration: 0.5s;
+}
+
+.textline {
+  font-size: 15px;
+  color: white;
+  margin-bottom:5px;
 }
