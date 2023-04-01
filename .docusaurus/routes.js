@@ -4,72 +4,72 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '0f2'),
+    component: ComponentCreator('/__docusaurus/debug', '1e0'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '760'),
+    component: ComponentCreator('/__docusaurus/debug/config', '4a5'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '1dc'),
+    component: ComponentCreator('/__docusaurus/debug/content', '2ad'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'f52'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '6bb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'b11'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '4ac'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'e2a'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '6b9'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'eb5'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'c6a'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '0fa'),
+    component: ComponentCreator('/blog', 'e4b'),
     exact: true
   },
   {
     path: '/blog/关于网站管理员',
-    component: ComponentCreator('/blog/关于网站管理员', 'd01'),
+    component: ComponentCreator('/blog/关于网站管理员', '6f0'),
     exact: true
   },
   {
     path: '/blog/友链',
-    component: ComponentCreator('/blog/友链', '782'),
+    component: ComponentCreator('/blog/友链', 'd99'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '787'),
+    component: ComponentCreator('/blog/archive', '3d7'),
     exact: true
   },
   {
     path: '/blog/ZRX漫剪团管理员',
-    component: ComponentCreator('/blog/ZRX漫剪团管理员', 'b66'),
+    component: ComponentCreator('/blog/ZRX漫剪团管理员', 'c95'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '8dc'),
+    component: ComponentCreator('/markdown-page', '0f3'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e00'),
+    component: ComponentCreator('/docs', 'cd0'),
     routes: [
       {
         path: '/docs/aboutweb',
@@ -105,7 +105,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c93'),
+    component: ComponentCreator('/', '2cd'),
     exact: true
   },
   {

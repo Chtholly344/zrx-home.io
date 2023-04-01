@@ -27,8 +27,9 @@ function HomepageHeader() {
         <div>
           <span className={styles.textline}>
             只要你热爱二次元并且会一定的剪辑就可以轻松加入<br />
-            -主招纯剪，排版<br />
-            -不限平台-不限软件-不限年龄-
+            主招纯剪，排版<br />
+            -不限平台-不限软件-<br />
+            ZRX漫剪团欢迎您的加入
           </span>
         </div>
       </div>
