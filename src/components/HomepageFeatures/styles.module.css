@@ -1,15 +1,13 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 10rem 0;
+  padding: 7rem 0;
   width: 100%;
 }
 
 .fanming {
   text-align: center;
-  color: rgb(42, 138, 228);
-  background-color: rgb(146, 83, 204, 0.15);
-  border-radius: 25px;
+  color: rgb(103, 212, 255);
   margin-top: 20px;
   margin-bottom: 15px;
 }
