@@ -46,11 +46,11 @@ sidebar_position: 4
 
 ## 普通帮助图片
 
-![x](https://i.328888.xyz/2023/04/02/iHFQgV.png)
+![x](https://i.328888.xyz/2023/04/02/iHF6i8.png)  
 
 ## HTML版帮助图片
 
-![x](https://i.328888.xyz/2023/04/02/iHF6i8.png)
+![x](https://i.328888.xyz/2023/04/02/iHFQgV.png)  
 
 ## Web UI
 
