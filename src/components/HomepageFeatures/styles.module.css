@@ -1,14 +1,17 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 10rem 0;
   width: 100%;
 }
 
 .fanming {
-  font-style: italic;
   text-align: center;
-  text-decoration: underline;
+  color: rgb(42, 138, 228);
+  background-color: rgb(146, 83, 204, 0.15);
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .featureSvg {

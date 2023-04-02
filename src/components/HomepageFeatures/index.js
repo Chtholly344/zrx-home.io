@@ -43,7 +43,7 @@ function Feature({Svg, name, title, description}) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className={styles.fanming}>
-        <h2>{name}</h2>
+        <h1>{name}</h1>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
