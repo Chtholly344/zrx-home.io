@@ -4,9 +4,9 @@ sidebar_position: 4
 
 # 群内机器人-绪山真寻BOT(启用)
 
-## 提示：图片来源于Github，国内网络大概率无法加载
+## 提示：图片已换源，如加载失败请告知网站管理员
 
-![ZhenxunBot](https://raw.githubusercontent.com/HibiKier/zhenxun_bot/main/logo.png)
+![ZhenxunBot](https://www.helloimg.com/images/2023/04/02/oX5Owm.jpg)
 
 ![maven](https://img.shields.io/badge/python-3.8%2B-blue)
 ![maven](https://img.shields.io/badge/nonebot-2.0.0-yellow)
@@ -46,11 +46,11 @@ sidebar_position: 4
 
 ## 普通帮助图片
 
-![x](https://raw.githubusercontent.com/HibiKier/zhenxun_bot/main/docs_image/help.png)
+![x](https://i.328888.xyz/2023/04/02/iHFQgV.png)
 
 ## HTML版帮助图片
 
-![x](https://raw.githubusercontent.com/HibiKier/zhenxun_bot/main/docs_image/html_help.png)
+![x](https://i.328888.xyz/2023/04/02/iHF6i8.png)
 
 ## Web UI
 
