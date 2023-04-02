@@ -1,4 +1,4 @@
-<div align=center><img width="320" height="320" src="./static/img/logo.png"/></div>
+<div align=center><img width="1000" height="600" src="https://www.helloimg.com/images/2023/04/01/o3VGut.webp"/></div>
 
 # ZRX漫剪团 の 小网站
 
