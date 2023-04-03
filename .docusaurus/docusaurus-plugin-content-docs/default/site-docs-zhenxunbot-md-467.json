@@ -2,7 +2,7 @@
   "unversionedId": "zhenxunbot",
   "id": "zhenxunbot",
   "title": "群内机器人-绪山真寻BOT(启用)",
-  "description": "提示：图片来源于Github，国内网络大概率无法加载",
+  "description": "提示：图片已换源，如加载失败请告知网站管理员",
   "source": "@site/docs/zhenxunbot.md",
   "sourceDirName": ".",
   "slug": "/zhenxunbot",

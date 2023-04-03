@@ -22,7 +22,7 @@
 
  .heroBanner {
   color: white;
-  padding: 12rem 0;
+  padding: 15rem 0;
   text-align: center;
   position: relative;
   background: url(https://www.helloimg.com/images/2023/04/01/o3VGut.webp);
@@ -61,6 +61,7 @@
   background-color: #00cbda;
   border: 2px solid #00cbda;
   border-radius: 25px;
+  padding: 8px 26px;
   color: black;
   text-decoration: none;
   margin: 5px 5px;
@@ -86,6 +87,7 @@
   background-color: #00cbda;
   border: 2px solid #00cbda;
   border-radius: 25px;
+  padding: 8px 26px;
   color: black;
   text-decoration: none;
   margin: 5px 5px;
