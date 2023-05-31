@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\ChthollyNota\\Desktop\\Web\\zrx-home.io\\sidebars.js",
-          "contentPath": "C:\\Users\\ChthollyNota\\Desktop\\Web\\zrx-home.io\\docs",
-          "contentPathLocalized": "C:\\Users\\ChthollyNota\\Desktop\\Web\\zrx-home.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\ChthollyOS\\Desktop\\Github\\zrx-home.io\\sidebars.js",
+          "contentPath": "C:\\Users\\ChthollyOS\\Desktop\\Github\\zrx-home.io\\docs",
+          "contentPathLocalized": "C:\\Users\\ChthollyOS\\Desktop\\Github\\zrx-home.io\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "aboutweb",
@@ -91,7 +91,7 @@
               "unversionedId": "sagiribot",
               "id": "sagiribot",
               "title": "群内机器人-SAGIRIBOT(未使用)",
-              "description": "maven",
+              "description": "经常寄暂时不想弄了",
               "source": "@site/docs/sagiribot.md",
               "sourceDirName": ".",
               "slug": "/sagiribot",

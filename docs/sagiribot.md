@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # 群内机器人-SAGIRIBOT(未使用) 
 
+经常寄暂时不想弄了
+
 ![maven](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![maven](https://img.shields.io/badge/sqlalchemy-1.4.11+-orange.svg)
 
