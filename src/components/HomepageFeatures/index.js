@@ -10,7 +10,7 @@ const FeatureList = [
     Svg: require('@site/static/img/01.svg').default,
     description: (
       <>
-        ZRX漫剪团成立于2022年12月15日，截至2023年3月30日，团内成员已达到290+
+        ZRX漫剪团成立于2022年12月15日，截至2023年5月31日，团内成员已达到320+
       </>
     ),
   },
@@ -30,7 +30,7 @@ const FeatureList = [
     Svg: require('@site/static/img/03.svg').default,
     description: (
       <>
-        自建团三个多月以来，群内已上传素材10GB+,群内包含AM,NV,MN等主流手机剪辑软件安装包，AE等可向管理 Chtholly 获取
+        自建团五个多月以来，群内已上传素材10GB+,群内包含AM,NV,MN等主流手机剪辑软件安装包，AE等可向管理 Chtholly 获取
       </>
     ),
   },

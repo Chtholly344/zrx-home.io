@@ -57,7 +57,7 @@
         "hasTruncateMarker": false,
         "authors": [
           {
-            "name": "赛马娘",
+            "name": "拉紧三玖的手",
             "title": "ZRX漫剪团团长",
             "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=1240487240&spec=640&img_type=jpg",
             "key": "1"
@@ -75,13 +75,13 @@
             "key": "3"
           },
           {
-            "name": "张   子（漫剪）",
+            "name": "巴卫",
             "title": "ZRX漫剪团管理员",
             "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=2085486063&spec=640&img_type=jpg",
             "key": "4"
           },
           {
-            "name": "坤祥物",
+            "name": "三玖.",
             "title": "ZRX漫剪团管理员",
             "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=438970394&spec=640&img_type=jpg",
             "key": "5"
@@ -93,13 +93,13 @@
             "key": "6"
           },
           {
-            "name": "狗巴皮（开学版）",
+            "name": "难忘l",
             "title": "ZRX漫剪团管理员",
             "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=2381065753&spec=640&img_type=jpg",
             "key": "7"
           },
           {
-            "name": "TA（已紫砂）",
+            "name": "TA",
             "title": "ZRX漫剪团管理员",
             "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3278640271&spec=640&img_type=jpg",
             "key": "8"
@@ -117,11 +117,29 @@
             "key": "10"
           },
           {
+            "name": "成功饿死了",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=1510068565&spec=640&img_type=jpg",
+            "key": "11"
+          },
+          {
+            "name": "无敌暴龙战士小郜",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3398458147&spec=640&img_type=jpg",
+            "key": "12"
+          },
+          {
+            "name": "情冬",
+            "title": "ZRX漫剪团管理员",
+            "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3329339360&spec=640&img_type=jpg",
+            "key": "13"
+          },
+          {
             "name": "Chtholly",
             "title": "ZRX漫剪团管理员",
             "url": "https://qm.qq.com/cgi-bin/qm/qr?k=60gs5tRrajst0VNKX3wYMDbxyd7fwJLa&noverify=0&personal_qrcode_source=3",
             "imageURL": "http://q.qlogo.cn/headimg_dl?dst_uin=3528497818&spec=640&img_type=jpg",
-            "key": "11"
+            "key": "14"
           }
         ],
         "frontMatter": {
@@ -138,7 +156,10 @@
             "8",
             "9",
             "10",
-            "11"
+            "11",
+            "12",
+            "13",
+            "14"
           ]
         },
         "prevItem": {
